@@ -127,6 +127,8 @@ The main goals are to:
 - Develop a compact and practical physical design.
 
 ---
+## Project MANTIS digital design
+<img src="tinker.obj" alt="MANTIS bracelet and disk prototype">
 
 **Project MANTIS**  
 *Exploring the intersection of wearable technology, embedded systems, and electromagnetism.*
